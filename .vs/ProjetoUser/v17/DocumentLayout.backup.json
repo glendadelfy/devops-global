@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|c:\\users\\glend\\devops\\cp3dotnet\\cp3dotnet\\projetouser\\projetouser\\migrations\\20241106011128_usuariomigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|solutionrelative:projetouser\\migrations\\20241106011128_usuariomigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|c:\\users\\glend\\devops\\cp3dotnet\\cp3dotnet\\projetouser\\projetouser\\migrations\\20241106024019_usuariotokenmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|solutionrelative:projetouser\\migrations\\20241106024019_usuariotokenmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|c:\\users\\glend\\devops\\cp3dotnet\\cp3dotnet\\projetouser\\projetouser\\migrations\\20241108141651_usuariomigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|solutionrelative:projetouser\\migrations\\20241108141651_usuariomigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|c:\\users\\glend\\devops\\cp3dotnet\\cp3dotnet\\projetouser\\projetouser\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|solutionrelative:projetouser\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|c:\\users\\glend\\devops\\cp3dotnet\\cp3dotnet\\projetouser\\projetouser\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|solutionrelative:projetouser\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|c:\\users\\glend\\devops\\cp3dotnet\\cp3dotnet\\projetouser\\projetouser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|solutionrelative:projetouser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|c:\\users\\glend\\devops\\cp3dotnet\\cp3dotnet\\projetouser\\projetouser\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|solutionrelative:projetouser\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|c:\\users\\glend\\devops\\cp3dotnet\\cp3dotnet\\projetouser\\projetouser\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|solutionrelative:projetouser\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|c:\\users\\glend\\devops\\cp3dotnet\\cp3dotnet\\projetouser\\projetouser\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|solutionrelative:projetouser\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|c:\\users\\glend\\devops\\cp3dotnet\\cp3dotnet\\projetouser\\projetouser\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|solutionrelative:projetouser\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|c:\\users\\glend\\devops\\cp3dotnet\\cp3dotnet\\projetouser\\projetouser\\projetouser.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|solutionrelative:projetouser\\projetouser.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|c:\\users\\glend\\devops\\cp3dotnet\\cp3dotnet\\projetouser\\projetouser\\model\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|solutionrelative:projetouser\\model\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|c:\\users\\glend\\devops\\cp3dotnet\\cp3dotnet\\projetouser\\projetouser\\model\\usuarioapitoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|solutionrelative:projetouser\\model\\usuarioapitoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|c:\\users\\glend\\devops\\cp3dotnet\\cp3dotnet\\projetouser\\projetouser\\model\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|solutionrelative:projetouser\\model\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|c:\\users\\glend\\devops\\cp3dotnet\\cp3dotnet\\projetouser\\projetouser\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|solutionrelative:projetouser\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\glend\\.nuget\\packages\\microsoft.extensions.identity.core\\8.0.10\\THIRD-PARTY-NOTICES.TXT||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|c:\\users\\glend\\devops\\cp3dotnet\\cp3dotnet\\projetouser\\projetouser\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57EC92CC-41B6-4BD2-BF7E-A6E824F48912}|ProjetoUser\\ProjetoUser.csproj|solutionrelative:projetouser\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241108141651_UsuarioMigrations.cs",
+              "DocumentMoniker": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\Migrations\\20241108141651_UsuarioMigrations.cs",
+              "RelativeDocumentMoniker": "ProjetoUser\\Migrations\\20241108141651_UsuarioMigrations.cs",
+              "ToolTip": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\Migrations\\20241108141651_UsuarioMigrations.cs",
+              "RelativeToolTip": "ProjetoUser\\Migrations\\20241108141651_UsuarioMigrations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:16:52.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241106011128_UsuarioMigration.cs",
+              "DocumentMoniker": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\Migrations\\20241106011128_UsuarioMigration.cs",
+              "RelativeDocumentMoniker": "ProjetoUser\\Migrations\\20241106011128_UsuarioMigration.cs",
+              "ToolTip": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\Migrations\\20241106011128_UsuarioMigration.cs",
+              "RelativeToolTip": "ProjetoUser\\Migrations\\20241106011128_UsuarioMigration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:11:28.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ProjetoUser\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ProjetoUser\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwCcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:11:38.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241106024019_UsuarioTokenMigration.cs",
+              "DocumentMoniker": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\Migrations\\20241106024019_UsuarioTokenMigration.cs",
+              "RelativeDocumentMoniker": "ProjetoUser\\Migrations\\20241106024019_UsuarioTokenMigration.cs",
+              "ToolTip": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\Migrations\\20241106024019_UsuarioTokenMigration.cs",
+              "RelativeToolTip": "ProjetoUser\\Migrations\\20241106024019_UsuarioTokenMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T02:40:19.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoUser\\Program.cs",
+              "ToolTip": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\Program.cs",
+              "RelativeToolTip": "ProjetoUser\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:22:50.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\Dockerfile",
+              "RelativeDocumentMoniker": "ProjetoUser\\Dockerfile",
+              "ToolTip": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\Dockerfile",
+              "RelativeToolTip": "ProjetoUser\\Dockerfile",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-08T12:57:57.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ProjetoUser\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ProjetoUser\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:17:56.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjetoUser\\appsettings.json",
+              "ToolTip": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\appsettings.json",
+              "RelativeToolTip": "ProjetoUser\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T21:42:54.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ProjetoUser\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\WeatherForecast.cs",
+              "RelativeToolTip": "ProjetoUser\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T21:29:01.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ProjetoUser\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\appsettings.Development.json",
+              "RelativeToolTip": "ProjetoUser\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T13:16:26.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\Model\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "ProjetoUser\\Model\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\Model\\UsuarioModel.cs",
+              "RelativeToolTip": "ProjetoUser\\Model\\UsuarioModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T21:35:09.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\Model\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ProjetoUser\\Model\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\Model\\ErrorViewModel.cs",
+              "RelativeToolTip": "ProjetoUser\\Model\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T21:38:47.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjetoUser",
+              "DocumentMoniker": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\ProjetoUser.csproj",
+              "RelativeDocumentMoniker": "ProjetoUser\\ProjetoUser.csproj",
+              "ToolTip": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\ProjetoUser.csproj",
+              "RelativeToolTip": "ProjetoUser\\ProjetoUser.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T01:38:45.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioAPIToken.cs",
+              "DocumentMoniker": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\Model\\UsuarioAPIToken.cs",
+              "RelativeDocumentMoniker": "ProjetoUser\\Model\\UsuarioAPIToken.cs",
+              "ToolTip": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\Model\\UsuarioAPIToken.cs",
+              "RelativeToolTip": "ProjetoUser\\Model\\UsuarioAPIToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T02:39:09.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProjetoUser\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "ProjetoUser\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:57:46.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "THIRD-PARTY-NOTICES.TXT",
+              "DocumentMoniker": "C:\\Users\\glend\\.nuget\\packages\\microsoft.extensions.identity.core\\8.0.10\\THIRD-PARTY-NOTICES.TXT",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\microsoft.extensions.identity.core\\8.0.10\\THIRD-PARTY-NOTICES.TXT",
+              "ToolTip": "C:\\Users\\glend\\.nuget\\packages\\microsoft.extensions.identity.core\\8.0.10\\THIRD-PARTY-NOTICES.TXT [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\microsoft.extensions.identity.core\\8.0.10\\THIRD-PARTY-NOTICES.TXT [Somente Leitura]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-06T03:08:44.999Z",
+              "EditorCaption": " [Somente Leitura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProjetoUser\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\glend\\DEVOPS\\CP3DOTNET\\CP3DOTNET\\ProjetoUser\\ProjetoUser\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProjetoUser\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T01:41:28.976Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
